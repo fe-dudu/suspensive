@@ -1,5 +1,17 @@
 # @suspensive/react
 
+## 3.21.4
+
+### Patch Changes
+
+- [#1982](https://github.com/toss/suspensive/pull/1982) [`6f01757`](https://github.com/toss/suspensive/commit/6f01757c8d9e83c8c2da19450d2b755dd31f20a7) Thanks [@hovelopin](https://github.com/hovelopin)! - fix(react): name ErrorBoundaryGroup in useErrorBoundaryGroup error message
+
+## 3.21.3
+
+### Patch Changes
+
+- [#1979](https://github.com/toss/suspensive/pull/1979) [`b7b1de8`](https://github.com/toss/suspensive/commit/b7b1de84df2464f62a8fa1ffe128624b973767a2) Thanks [@manudeli](https://github.com/manudeli)! - Add @tanstack/intent AI agent skills (SKILL.md) and artifacts
+
 ## 3.21.2
 
 ### Patch Changes
